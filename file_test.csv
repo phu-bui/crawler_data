@@ -1,0 +1,101 @@
+id,titles,release,certificate,runtime,rates
+0,Joker,(2019),R,122 min,8.5
+1,Once Upon a Time... in Hollywood,(2019),R,161 min,7.7
+2,Parasite,(2019),R,132 min,8.6
+3,The Gentlemen,(2019),R,113 min,7.9
+4,Avengers: Endgame,(2019),PG-13,181 min,8.4
+5,1917,(2019),R,119 min,8.3
+6,Knives Out,(2019),PG-13,130 min,7.9
+7,Jojo Rabbit,(2019),PG-13,108 min,7.9
+8,Back to the Future,(1985),PG,116 min,8.5
+9,The Shawshank Redemption,(1994),R,142 min,9.3
+10,The Godfather,(1972),R,175 min,9.2
+11,Mad Max: Fury Road,(2015),R,120 min,8.1
+12,Little Women,(2019),PG,135 min,7.9
+13,Inception,(2010),PG-13,148 min,8.8
+14,Interstellar,(2014),PG-13,169 min,8.6
+15,The Matrix,(1999),R,136 min,8.7
+16,The Lighthouse,(I) (2019),R,109 min,7.6
+17,Harry Potter and the Sorcerer's Stone,(2001),PG,152 min,7.6
+18,Pulp Fiction,(1994),R,154 min,8.9
+19,The Dark Knight,(2008),PG-13,152 min,9
+20,Inglourious Basterds,(2009),R,153 min,8.3
+21,Gladiator,(2000),R,155 min,8.5
+22,The Princess Bride,(1987),PG,98 min,8.1
+23,Ford v Ferrari,(2019),PG-13,152 min,8.1
+24,The Lord of the Rings: The Fellowship of the Ring,(2001),PG-13,178 min,8.8
+25,Moana,(I) (2016),PG,107 min,7.6
+26,Avengers: Infinity War,(2018),PG-13,149 min,8.5
+27,Django Unchained,(2012),R,165 min,8.4
+28,Tombstone,(1993),R,130 min,7.8
+29,The Irishman,(2019),R,209 min,7.9
+30,The Wolf of Wall Street,(2013),R,180 min,8.2
+31,Call Me by Your Name,(2017),R,132 min,7.9
+32,Guardians of the Galaxy,(2014),PG-13,121 min,8
+33,The Silence of the Lambs,(1991),R,118 min,8.6
+34,Titanic,(1997),PG-13,194 min,7.8
+35,Forrest Gump,(1994),PG-13,142 min,8.8
+36,Thor: Ragnarok,(2017),PG-13,130 min,7.9
+37,Fight Club,(1999),R,139 min,8.8
+38,The Dark Knight Rises,(2012),PG-13,164 min,8.4
+39,Scarface,(1983),R,170 min,8.3
+40,Avatar,(2009),PG-13,162 min,7.8
+41,Se7en,(1995),R,127 min,8.6
+42,Portrait of a Lady on Fire,(2019),R,122 min,8.1
+43,Star Wars: Episode IV - A New Hope,(1977),PG,121 min,8.6
+44,Saving Private Ryan,(1998),R,169 min,8.6
+45,The Departed,(2006),R,151 min,8.5
+46,Heat,(1995),R,170 min,8.2
+47,Goodfellas,(1990),R,146 min,8.7
+48,The Prestige,(2006),PG-13,130 min,8.5
+49,Apocalypto,(2006),R,139 min,7.8
+50,Gone Girl,(2014),R,149 min,8.1
+51,Back to the Future Part II,(1989),PG,108 min,7.8
+52,The Grand Budapest Hotel,(2014),R,99 min,8.1
+53,Jurassic Park,(1993),PG-13,127 min,8.1
+54,Blade Runner 2049,(2017),R,164 min,8
+55,Star Wars: Episode V - The Empire Strikes Back,(1980),PG,124 min,8.7
+56,Alien,(1979),R,117 min,8.4
+57,Mission: Impossible - Fallout,(2018),PG-13,147 min,7.7
+58,Taxi Driver,(1976),R,114 min,8.3
+59,The Breakfast Club,(1985),R,97 min,7.9
+60,Spider-Man: Into the Spider-Verse,(2018),PG,117 min,8.4
+61,The Shining,(1980),R,146 min,8.4
+62,Schindler's List,(1993),R,195 min,8.9
+63,Dunkirk,(2017),PG-13,106 min,7.9
+64,Guardians of the Galaxy Vol. 2,(2017),PG-13,136 min,7.6
+65,Shutter Island,(2010),R,138 min,8.1
+66,Green Book,(2018),PG-13,130 min,8.2
+67,Deadpool 2,(2018),R,119 min,7.7
+68,No Country for Old Men,(2007),R,122 min,8.1
+69,Prisoners,(2013),R,153 min,8.1
+70,Pirates of the Caribbean: The Curse of the Black Pearl,(2003),PG-13,143 min,8
+71,The Curious Case of Benjamin Button,(2008),PG-13,166 min,7.8
+72,Apocalypse Now,(1979),R,147 min,8.4
+73,Léon: The Professional,(1994),R,110 min,8.5
+74,Zootopia,(2016),PG,108 min,8
+75,The Goonies,(1985),PG,114 min,7.8
+76,Rogue One: A Star Wars Story,(2016),PG-13,133 min,7.8
+77,Toy Story 4,(2019),G,100 min,7.8
+78,Requiem for a Dream,(2000),R,102 min,8.3
+79,The Lord of the Rings: The Return of the King,(2003),PG-13,201 min,8.9
+80,The Green Mile,(1999),R,189 min,8.6
+81,The Usual Suspects,(1995),R,106 min,8.5
+82,Harry Potter and the Deathly Hallows: Part 2,(2011),PG-13,130 min,8.1
+83,American Beauty,(1999),R,122 min,8.3
+84,Bohemian Rhapsody,(2018),PG-13,134 min,8
+85,The Godfather: Part II,(1974),R,202 min,9
+86,The Peanut Butter Falcon,(2019),PG-13,97 min,7.6
+87,The Revenant,(2015),R,156 min,8
+88,What We Do in the Shadows,(2014),R,86 min,7.7
+89,Good Will Hunting,(1997),R,126 min,8.3
+90,Captain America: Civil War,(2016),PG-13,147 min,7.8
+91,Harry Potter and the Goblet of Fire,(2005),PG-13,157 min,7.7
+92,Indiana Jones and the Raiders of the Lost Ark,(1981),PG,115 min,8.4
+93,The Avengers,(2012),PG-13,143 min,8
+94,The Big Lebowski,(1998),R,117 min,8.1
+95,Jaws,(1975),PG,124 min,8
+96,Marriage Story,(2019),R,137 min,8
+97,Hacksaw Ridge,(2016),R,139 min,8.1
+98,The Martian,(2015),PG-13,144 min,8
+99,La La Land,(2016),PG-13,128 min,8
